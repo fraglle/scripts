@@ -1,0 +1,15 @@
+﻿<email>
+	<from>i.karpov@ptk.ru</from>
+	<subject>тестирование</subject>
+	<emailbody><![CDATA[
+		<body>
+<P>&nbsp;</P>
+<P>&nbsp;<FONT style="BACKGROUND-COLOR: #ffd700">Тестовое</FONT> <FONT color=#40e0d0 size=6 face="Courier New"><STRONG><EM>письмо</EM></STRONG></FONT></P>
+<P align=center><FONT color=#4b0082 size=7 face="Courier New"><U>Привет</U></FONT></P>
+<P><IMG src="Q-Vos2ejZ2M.jpg"></P>
+<P><A href="http://www.ptk.ru/">www.ptk.ru</A></P>
+<P><IMG src="PTK.png"></P>
+		</body>]]>
+	</emailbody>
+	<emailattachments>Лого ПТК.png</emailattachments>
+</email>

@@ -1,0 +1,5 @@
+﻿<config>
+	<server_smtp>10.10.101.29</server_smtp>
+	<smtp_use>user</smtp_use>
+	<smtp_pass>pass</smtp_pass>
+</config>
